@@ -16,7 +16,7 @@
 		"coffee-script": "^1.12.4",
 		"body-parser": "^1.16.1",
 		"coffeeify": "^2.1.0",
-		"stylus": "^0.54.5",
+		"stylus": "^0.63.0",
 		"through2": "^2.0.3",
 		"underscore": "^1.8.3",
 		"markdown-it": "^8.3.0",
